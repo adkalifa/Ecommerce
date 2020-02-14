@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="/assets/css/fontawesome/solid.css">
 
         <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="stylesheet" href="../assets/css/style.css">
 
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -41,7 +42,7 @@
       <a class="btn btn-lg btn-primary btn-block" href="createaccount.php">Sign up</a>
     </form>
 
-    <script>
+    <!-- <script>
       $(document).ready(function(){
         $('.form-signin').submit(function(e){
           e.preventDefault();
@@ -71,6 +72,6 @@
           // }
         })
       });
-    </script>
+    </script> -->
 </body>
 </html>
